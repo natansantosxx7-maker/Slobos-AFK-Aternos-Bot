@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Afkbot00",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "Armaggedon_033.aternos.me",
@@ -27,9 +27,9 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 0,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
